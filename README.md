@@ -1,0 +1,1 @@
+Welcome to my Calculator project! This is a simple, responsive calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. This project was built as part of my internship at CodSoft and serves as a great example of using HTML, CSS, and JavaScript to build interactive web applications.
